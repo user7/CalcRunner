@@ -1,0 +1,2 @@
+rootProject.name = "CalcRunner"
+include ':app'
